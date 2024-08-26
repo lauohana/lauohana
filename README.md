@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindo ao meu perfil! =]
 
-<!--
-**lauohana/lauohana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Laura Ohana dos Santos Sousa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Estou desenvolvendo estudos em tecnologia: Curso [ALURA](https://www.alura.com)
+
+
+### Voce pode entrar em contato comigo 📫
+00001114561666SP@al.educacao.sp.gov.br
+
+![](![image](https://github.com/user-attachments/assets/357de08e-b7b4-4a16-a8c5-84b9b8367970)
